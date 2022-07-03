@@ -9,10 +9,10 @@
 from setuptools import find_packages, setup
 
 __plugin_name__ = "Ratio"
-__author__ = "PhasecoreX"
-__author_email__ = "phasecorex@gmail.com"
-__version__ = "2.0.3"
-__url__ = "https://github.com/PhasecoreX/deluge-ratio"
+__author__ = "Meimax, PhasecoreX"
+__author_email__ = "maxi@meimax.de, phasecorex@gmail.com"
+__version__ = "2.1.0"
+__url__ = "https://github.com/Meimax/deluge-ratio"
 __license__ = "GPLv3"
 __description__ = "Track your overall download to upload ratio."
 __long_description__ = """Keep track of your total downloads, uploads, and the resulting
